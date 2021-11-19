@@ -1,0 +1,4 @@
+C:\Users\lo_ja\Documents\GitHub\PracticeCalculator\PracticeCalculator\x64\Debug\PracticeCalculator.vcxproj.AssemblyReference.cache
+C:\Users\lo_ja\Documents\GitHub\PracticeCalculator\PracticeCalculator\x64\Debug\PracticeCalculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\lo_ja\Documents\GitHub\PracticeCalculator\PracticeCalculator\x64\Debug\PracticeCalculator.Calculator.resources
+C:\Users\lo_ja\Documents\GitHub\PracticeCalculator\PracticeCalculator\x64\Debug\PracticeCalculator.vcxproj.GenerateResource.cache

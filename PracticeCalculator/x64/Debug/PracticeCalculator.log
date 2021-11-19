@@ -1,0 +1,4 @@
+﻿  Calculator.cpp
+C:\Users\lo_ja\Documents\GitHub\PracticeCalculator\PracticeCalculator\Calculator.cpp(8,15): warning C4551: function call missing argument list
+  Calculator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PracticeCalculator.vcxproj -> C:\Users\lo_ja\Documents\GitHub\PracticeCalculator\x64\Debug\PracticeCalculator.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PracticeCalculator", "PracticeCalculator\PracticeCalculator.vcxproj", "{623C444F-660A-4154-BFC2-ABC46B8C98D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623C444F-660A-4154-BFC2-ABC46B8C98D8}.Debug|x64.ActiveCfg = Debug|x64
+		{623C444F-660A-4154-BFC2-ABC46B8C98D8}.Debug|x64.Build.0 = Debug|x64
+		{623C444F-660A-4154-BFC2-ABC46B8C98D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{623C444F-660A-4154-BFC2-ABC46B8C98D8}.Debug|x86.Build.0 = Debug|Win32
+		{623C444F-660A-4154-BFC2-ABC46B8C98D8}.Release|x64.ActiveCfg = Release|x64
+		{623C444F-660A-4154-BFC2-ABC46B8C98D8}.Release|x64.Build.0 = Release|x64
+		{623C444F-660A-4154-BFC2-ABC46B8C98D8}.Release|x86.ActiveCfg = Release|Win32
+		{623C444F-660A-4154-BFC2-ABC46B8C98D8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6854B428-BB62-4E0E-8474-19C1CB560EE8}
+	EndGlobalSection
+EndGlobal
